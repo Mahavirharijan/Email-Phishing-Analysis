@@ -1,0 +1,26 @@
+Phishing Email Analysis Report
+
+Sender Email: support@paypa1-secure.com
+- Fake domain used (paypa1 instead of paypal)
+
+Subject: Urgent: Your PayPal Account Will Be Suspended!
+- Urgent / threatening language
+
+Suspicious Link: http://paypal.account-verify.ru/login
+- Mismatched URL (not official PayPal domain)
+- .ru domain = suspicious
+
+Attachment: verify_account.html
+- HTML file used to capture credentials (phishing attempt)
+
+Grammar:
+- Mostly fine, but phishing emails often use urgent and manipulative tone
+
+Phishing Traits Identified:
+- Spoofed email ID
+- Suspicious link
+- Fake domain
+- Urgency
+- HTML attachment
+
+Conclusion: ⚠ This is a phishing email.
